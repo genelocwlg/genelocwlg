@@ -1,12 +1,10 @@
-### Hi there, I'm Jerenokun, you can call me Jeren!
-Formerly known as AGCAL1508
-I'm a 14 year old who's addicted to programming
+### Hi there, I'm Gelo Caliwag!
+I'm a 17 year old who's passionate and interested in programming and technology development,
 
-**💻Programming languages I code at:**
-- Python - Intermediate and a golfer
-- C - a beginner 
-- Javascript - only tried it a bit
-- Html/Css - These are markup languages but ok
+**💻Languages I code at:**
+- Python - Intermediate and Code Golfer
+- Html/Css - Intermediate Level, Capable of short websites
+- Javascript - Proficient, developed and deployed an app formerly
 
 **♟️Hobbies/skills/interests:**
 - Chess
@@ -14,4 +12,4 @@ I'm a 14 year old who's addicted to programming
 - Computer
 - Cubing
 
-You can dm in discord, Jerenokun#1924, for any help in programming or talk about anything! 😎
+You can dm in for any help in programming! 😎
